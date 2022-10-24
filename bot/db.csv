@@ -1,0 +1,109 @@
+[2022-10-22 21:50:14.385489] first_name = Evgeniy, id = 1464249273, text = /time
+[2022-10-22 23:15:56.517989] first_name = Сергей, id = 1738730510, text = /time
+[2022-10-22 23:15:58.812509] first_name = Сергей, id = 1738730510, text = /hi
+[2022-10-23 10:08:55.103286] first_name = Сергей, id = 1738730510, request = /time
+[2022-10-23 10:22:41.943540] first_name = Сергей, id = 1738730510, request = /help
+[2022-10-23 10:22:47.044749] first_name = Сергей, id = 1738730510, request = /calculator
+[2022-10-23 10:22:52.521534] first_name = Сергей, id = 1738730510, request = /sum
+[2022-10-23 10:23:20.601045] first_name = Сергей, id = 1738730510, request = /sum 1 2
+[2022-10-23 10:46:23.019917] first_name = Сергей, id = 1738730510, request = /hi
+[2022-10-23 10:46:24.864121] first_name = Сергей, id = 1738730510, request = /time
+[2022-10-23 10:46:29.274014] first_name = Сергей, id = 1738730510, request = /help
+[2022-10-23 10:46:33.988220] first_name = Сергей, id = 1738730510, request = /calculator
+[2022-10-23 10:46:51.492108] first_name = Сергей, id = 1738730510, request = /sum 1 2
+[2022-10-23 10:47:18.813427] first_name = Сергей, id = 1738730510, request = /sub 1 2
+[2022-10-23 10:47:32.337257] first_name = Сергей, id = 1738730510, request = /mult 1 2
+[2022-10-23 10:47:53.752875] first_name = Сергей, id = 1738730510, request = /div 1 2
+[2022-10-23 10:49:08.881449] first_name = Сергей, id = 1738730510, request = /help
+[2022-10-23 10:49:10.821551] first_name = Сергей, id = 1738730510, request = /calculator
+[2022-10-23 11:15:47.078257] first_name = Сергей, id = 1738730510, request = /hi
+[2022-10-23 11:15:49.017015] first_name = Сергей, id = 1738730510, request = /time
+[2022-10-23 11:15:57.969154] first_name = Сергей, id = 1738730510, request = /help
+[2022-10-23 11:16:31.137028] first_name = Сергей, id = 1738730510, request = /calculator
+[2022-10-23 11:16:40.187050] first_name = Сергей, id = 1738730510, request = /sum 1 2
+[2022-10-23 11:16:51.444680] first_name = Сергей, id = 1738730510, request = /sub 1 2
+[2022-10-23 11:17:13.052644] first_name = Сергей, id = 1738730510, request = /mult  1 2
+[2022-10-23 11:17:22.324148] first_name = Сергей, id = 1738730510, request = /div 1 2
+[2022-10-23 11:28:05.492393] first_name = Сергей, id = 1738730510, request = /help
+[2022-10-23 11:28:16.975139] first_name = Сергей, id = 1738730510, request = /hi
+[2022-10-23 11:28:19.486102] first_name = Сергей, id = 1738730510, request = /time
+[2022-10-23 11:28:22.028120] first_name = Сергей, id = 1738730510, request = /help
+[2022-10-23 11:28:25.044360] first_name = Сергей, id = 1738730510, request = /ratio_calculator
+[2022-10-23 11:28:37.324249] first_name = Сергей, id = 1738730510, request = /sum
+[2022-10-23 11:28:43.260044] first_name = Сергей, id = 1738730510, request = /sum 1c2
+[2022-10-23 11:28:48.752845] first_name = Сергей, id = 1738730510, request = /sum 1 2
+[2022-10-23 11:39:28.556536] first_name = Сергей, id = 1738730510, request = /hi
+[2022-10-23 11:40:00.608765] first_name = Сергей, id = 1738730510, request = /time
+[2022-10-23 11:40:25.653616] first_name = Сергей, id = 1738730510, request = /help
+[2022-10-23 11:40:51.725579] first_name = Сергей, id = 1738730510, request = /ratio_calculator
+[2022-10-23 11:42:10.653687] first_name = Сергей, id = 1738730510, request = /help
+[2022-10-23 11:42:15.161016] first_name = Сергей, id = 1738730510, request = /complex_calculator
+[2022-10-23 12:40:19.371515] first_name = Сергей, id = 1738730510, request = /complex_calculator
+[2022-10-23 12:40:29.720851] first_name = Сергей, id = 1738730510, request = /sum 1 2
+[2022-10-23 12:54:26.845436] first_name = Сергей, id = 1738730510, request = /help
+[2022-10-23 12:54:31.752957] first_name = Сергей, id = 1738730510, request = /phone_dictionary
+[2022-10-23 12:57:27.667916] first_name = Сергей, id = 1738730510, request = /input
+[2022-10-23 12:58:15.574395] first_name = Сергей, id = 1738730510, request = /input
+[2022-10-23 12:59:19.076716] first_name = Сергей, id = 1738730510, request = /input
+[2022-10-23 14:05:03.177423] first_name = Сергей, id = 1738730510, request = /hi
+[2022-10-23 14:05:05.662760] first_name = Сергей, id = 1738730510, request = /time
+[2022-10-23 14:05:07.787711] first_name = Сергей, id = 1738730510, request = /help
+[2022-10-23 14:05:13.879153] first_name = Сергей, id = 1738730510, request = /phone_dictionary
+[2022-10-23 14:05:36.935023] first_name = Сергей, id = 1738730510, request = /input
+[2022-10-23 14:06:03.559992] first_name = Сергей, id = 1738730510, request = /data Петров Сидр Иванович водитель 1
+[2022-10-23 14:37:11.096888] first_name = Сергей, id = 1738730510, request = /input
+[2022-10-23 14:38:09.658823] first_name = Сергей, id = 1738730510, request = /data Петров Сидр Иванович водитель 1
+[2022-10-23 14:38:46.376018] first_name = Сергей, id = 1738730510, request = /input
+[2022-10-23 14:38:53.518440] first_name = Сергей, id = 1738730510, request = /data Петров Сидр Иванович водитель 1
+[2022-10-23 14:41:07.433677] first_name = Сергей, id = 1738730510, request = /input
+[2022-10-23 14:41:11.432910] first_name = Сергей, id = 1738730510, request = /data Петров Сидр Иванович водитель 1
+[2022-10-23 14:41:58.657892] first_name = Сергей, id = 1738730510, request = /input
+[2022-10-23 14:42:01.825790] first_name = Сергей, id = 1738730510, request = /data Петров Сидр Иванович водитель 1
+[2022-10-23 14:44:24.522918] first_name = Сергей, id = 1738730510, request = /input
+[2022-10-23 14:44:29.039759] first_name = Сергей, id = 1738730510, request = /data Петров Сидр Иванович водитель 1
+[2022-10-23 14:45:09.498380] first_name = Сергей, id = 1738730510, request = /data Петров Сидр Иванович водитель 2
+[2022-10-23 14:47:31.169153] first_name = Сергей, id = 1738730510, request = /get format1.txt
+[2022-10-23 14:55:44.046202] first_name = Сергей, id = 1738730510, request = /get format1.txt
+[2022-10-23 15:04:24.013025] first_name = Сергей, id = 1738730510, request = /get format1.txt
+[2022-10-23 15:06:51.277415] first_name = Сергей, id = 1738730510, request = /get format1.txt
+[2022-10-23 15:40:22.452558] first_name = Сергей, id = 1738730510, request = /get format1.txt
+[2022-10-23 15:40:36.517703] first_name = Сергей, id = 1738730510, request = /get format2.txt
+[2022-10-23 21:57:24.652096] first_name = Сергей, id = 1738730510, request = /help
+[2022-10-23 21:57:37.628957] first_name = Сергей, id = 1738730510, request = /complex_calculator
+[2022-10-23 21:59:56.218366] first_name = Сергей, id = 1738730510, request = /complex_sum 3 + 0i 1 + 5i
+[2022-10-23 22:00:46.843390] first_name = Сергей, id = 1738730510, request = /complex_sum,3 + 0i,1 + 5i
+[2022-10-23 23:07:05.426718] first_name = Сергей, id = 1738730510, request = /hi
+[2022-10-23 23:07:08.180068] first_name = Сергей, id = 1738730510, request = /time
+[2022-10-23 23:07:10.687811] first_name = Сергей, id = 1738730510, request = /help
+[2022-10-23 23:07:21.440934] first_name = Сергей, id = 1738730510, request = /ratio_calculator
+[2022-10-23 23:07:24.945226] first_name = Сергей, id = 1738730510, request = /racio_sum
+[2022-10-23 23:07:32.997251] first_name = Сергей, id = 1738730510, request = /racio_sum 1 2
+[2022-10-23 23:10:20.513644] first_name = Сергей, id = 1738730510, request = /racio_sum 1 2
+[2022-10-23 23:10:37.067381] first_name = Сергей, id = 1738730510, request = /racio_sub 1 2
+[2022-10-23 23:11:38.979244] first_name = Сергей, id = 1738730510, request = /racio_mult 1 2
+[2022-10-23 23:11:52.501811] first_name = Сергей, id = 1738730510, request = /racio_div 1 2
+[2022-10-23 23:12:03.105030] first_name = Сергей, id = 1738730510, request = /complex_calculator
+[2022-10-23 23:12:40.858840] first_name = Сергей, id = 1738730510, request = /complex_sum,3 + 0i,1 + 5i
+[2022-10-24 14:54:01.106287] first_name = Сергей, id = 1738730510, request = /hi
+[2022-10-24 14:54:07.153460] first_name = Сергей, id = 1738730510, request = /time
+[2022-10-24 14:54:12.785127] first_name = Сергей, id = 1738730510, request = /help
+[2022-10-24 14:54:20.333713] first_name = Сергей, id = 1738730510, request = /ratio_calculator
+[2022-10-24 14:54:27.830550] first_name = Сергей, id = 1738730510, request = /racio_sum 1 2
+[2022-10-24 14:54:43.026364] first_name = Сергей, id = 1738730510, request = /racio_sub 1 2
+[2022-10-24 14:54:53.824860] first_name = Сергей, id = 1738730510, request = /racio_mult 1 2
+[2022-10-24 14:55:01.433016] first_name = Сергей, id = 1738730510, request = /racio_div 1 2
+[2022-10-24 14:55:45.592288] first_name = Сергей, id = 1738730510, request = /phone_dictionary
+[2022-10-24 14:57:08.061438] first_name = Сергей, id = 1738730510, request = /input
+[2022-10-24 14:58:37.678868] first_name = Сергей, id = 1738730510, request = /data Sapognikov Alexey Mikhailovich driver 1
+[2022-10-24 14:59:16.949289] first_name = Сергей, id = 1738730510, request = /data Sapognikov Alexey Mikhailovich driver 2
+[2022-10-24 15:00:07.216725] first_name = Сергей, id = 1738730510, request = /get
+[2022-10-24 15:01:08.806744] first_name = Сергей, id = 1738730510, request = /get format1.txt
+[2022-10-24 15:01:24.149643] first_name = Сергей, id = 1738730510, request = /get format2.txt
+[2022-10-24 15:01:52.064272] first_name = Сергей, id = 1738730510, request = /complex_calculator
+[2022-10-24 15:02:40.427134] first_name = Сергей, id = 1738730510, request = /complex_sum,(3 + 0i) ,(1 + 5i)
+[2022-10-24 15:03:23.869740] first_name = Сергей, id = 1738730510, request = /complex_sum,3 + 0i ,1 + 5i
+[2022-10-24 15:06:29.461468] first_name = Сергей, id = 1738730510, request = /complex_sum,3 + 0i,1 + 5i
+[2022-10-24 15:16:18.563297] first_name = Сергей, id = 1738730510, request = /complex_sum,3 + 0i,1 + 5i
+[2022-10-24 15:44:00.982138] first_name = Сергей, id = 1738730510, request = /complex_sub,3 + 2i,1 - 2i
+[2022-10-24 15:44:37.789100] first_name = Сергей, id = 1738730510, request = /complex_mult,2 + 3i,5 - 7i
+[2022-10-24 15:45:10.208020] first_name = Сергей, id = 1738730510, request = /complex_div,3 + 4i,4 + 5i
