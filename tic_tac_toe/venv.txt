@@ -1,0 +1,9 @@
+py -m venv venv_for_bot
+venv_for_bot\Scripts\activate
+pip install isOdd
+python.exe -m pip install --upgrade pip 
+pip freeze > requirements.txt 
+deactivate
+
+
+pip install python-telegram-bot --pre
