@@ -1,5 +1,0 @@
-Иванов,Иван,Иванович,механик
-Gordeev,Gordey,Gorgeevich,teacher
-Платонов,Платон,Платонович,летчик
-Петров,Сидр,Иванович,водитель
-Sapognikov,Alexey,Mikhailovich,driver
